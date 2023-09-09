@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+
+  @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Passion+One&display=swap');
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -17,6 +21,13 @@ body{
    background-attachment: fixed;
 }
 
+h1{
+    font-family: 'Creepster', cursive;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+
 main{
     position: relative;
     height: 100vh;
@@ -28,6 +39,14 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
     height: 627px;
-    width: 311px;
-    background: url(../imagem/frame-iphone.png);
+    width: 511px;
+    background: url(../imagem/celular-png.png);
+}
+
+iframe#tela{
+    position: relative;
+    top: 69px;
+    left: 177px;
+    width: 219px;
+    height: 396px;
 }
