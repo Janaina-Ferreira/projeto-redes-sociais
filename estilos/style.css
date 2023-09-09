@@ -38,15 +38,16 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 511px;
-    background: url(../imagem/celular-png.png);
+    height: 527px;
+    width: 311px;
+    background: url(../imagem/celular2.png);
 }
 
 iframe#tela{
     position: relative;
-    top: 69px;
-    left: 177px;
-    width: 219px;
-    height: 396px;
+    top: 11px;
+    left: 53px;
+    width: 184px;
+    height: 387px;
+    border-radius:20px;
 }
