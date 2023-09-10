@@ -40,15 +40,15 @@ section#telefone{
     transform: translate(-50%, -50%);
     height: 620px;
     width: 311px;
-    background: url(../imagem/celular.png);
+    background: url(../imagem/sansung.png);
     padding-bottom: 20px;
 }
 
 iframe#tela{
     position: relative;
-    top: 25px;
-    left: 23px;
-    width: 257px;
-    height: 587px;
-    border-radius:20px;
+    top: 82px;
+    left: 29px;
+    width: 254px;
+    height: 460px;
+
 }
