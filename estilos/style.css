@@ -40,7 +40,7 @@ section#telefone{
     transform: translate(-50%, -50%);
     height: 620px;
     width: 311px;
-    background: url(../imagem/celular.png);
+    background: url(../imagem/calular1.png);
     padding-bottom: 20px;
 }
 
@@ -67,9 +67,9 @@ section#redes-sociais img:hover{
 
 iframe#tela{
     position: relative;
-    top: 25px;
-    left: 23px;
-    width: 257px;
+    top: 24px;
+    left: 22px;
+    width: 259px;
     height: 570px;
     border-radius: 30px;
 
